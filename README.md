@@ -3,7 +3,7 @@
 
 <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" whidth="40" height="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" whidth="40" height="40"/> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" whidth="40" height="40" /><img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" whidth="40" height="40" />
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaeumesmu/rafaeumesmu/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 <a href="https://github.com/rafaeumesmu">
